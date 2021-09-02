@@ -1,2 +1,17 @@
-$ python3 -m venv venv
+{% comment %} $ python3 -m venv venv
 $ source venv/bin/activate # this is the another way of the activation the env
+$ python3 -m pip freeze > requirements.txt # by this command you can add requirements.txt file
+
+>>> lookat the the steps 
+
+>>>first of all you have to make the app.py
+>>> inside the app.py >> route>bcz u hv to create a wab page>>render_template>don't forget
+>>> u have to return it in the route class>>
+
+
+>>> about bootstrap u have to add the css nd js code in the head of the base.html file  {% endcomment %}
+>>> in bootstrap you can just add the css and js format and 
+
+
+>>>after base.html file we hv to go for data base and that is very imp portion of the projet
+ 
